@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "680F021F-2EF9-4413-AC73-61F0D1E1E810"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C3F16F8-B3DA-45BC-988A-E3A1D928401E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iTunes Client App/App/Core/Extensions/UIImage+Extensions.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "downloadImage(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8C3F16F8-B3DA-45BC-988A-E3A1D928401E - b07aeb6af79d0965"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in __C.UIImageView.downloadImage(from: Swift.Optional&lt;Foundation.URL&gt;) -&gt; ()"
+                  moduleName = "iTunes Client App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/onurduyar/Desktop/hw_3/iTunes-Client-App/iTunes%20Client%20App/iTunes%20Client%20App/App/Core/Extensions/UIImage+Extensions.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "976">
+               </Location>
+               <Location
+                  uuid = "8C3F16F8-B3DA-45BC-988A-E3A1D928401E - aa0c01e8806f021a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in __C.UIImageView.downloadImage(from: Swift.Optional&lt;Foundation.URL&gt;) -&gt; ()"
+                  moduleName = "iTunes Client App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/onurduyar/Desktop/hw_3/iTunes-Client-App/iTunes%20Client%20App/iTunes%20Client%20App/App/Core/Extensions/UIImage+Extensions.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "260E0288-61EB-4672-AA63-198BFBD233C2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iTunes Client App/Screens/Movie/Main/Controller/MovieMainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "194EC892-38CD-44D3-AC48-7BE6887F308E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iTunes Client App/Screens/Movie/Main/Controller/MovieMainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "fetchMovies(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "194EC892-38CD-44D3-AC48-7BE6887F308E - df7d22e40687969d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 0 of iTunes_Client_App.MovieMainViewController.fetchMovies(with: Swift.String) -&gt; ()"
+                  moduleName = "iTunes Client App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/onurduyar/Desktop/hw_3/iTunes-Client-App/iTunes%20Client%20App/iTunes%20Client%20App/Screens/Movie/Main/Controller/MovieMainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "194EC892-38CD-44D3-AC48-7BE6887F308E - b003111f3adeb383"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iTunes_Client_App.MovieMainViewController.fetchMovies(with: Swift.String) -&gt; ()"
+                  moduleName = "iTunes Client App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/onurduyar/Desktop/hw_3/iTunes-Client-App/iTunes%20Client%20App/iTunes%20Client%20App/Screens/Movie/Main/Controller/MovieMainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "57562F2E-5ED7-43F5-AE25-537A851D42E2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iTunes Client App/Screens/Movie/Main/Controller/MovieMainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "fetchMovies(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "57562F2E-5ED7-43F5-AE25-537A851D42E2 - b003111f3adeb383"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iTunes_Client_App.MovieMainViewController.fetchMovies(with: Swift.String) -&gt; ()"
+                  moduleName = "iTunes Client App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/onurduyar/Desktop/hw_3/iTunes-Client-App/iTunes%20Client%20App/iTunes%20Client%20App/Screens/Movie/Main/Controller/MovieMainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "57562F2E-5ED7-43F5-AE25-537A851D42E2 - cfbb8900e707a766"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;iTunes_Client_App.MovieResponse, Swift.Error&gt;) -&gt; () in iTunes_Client_App.MovieMainViewController.fetchMovies(with: Swift.String) -&gt; ()"
+                  moduleName = "iTunes Client App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/onurduyar/Desktop/hw_3/iTunes-Client-App/iTunes%20Client%20App/iTunes%20Client%20App/Screens/Movie/Main/Controller/MovieMainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
